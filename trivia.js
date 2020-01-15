@@ -1,4 +1,5 @@
 
+
 var score = 0
 var percentage = 0
 var i = 1
@@ -250,9 +251,9 @@ function main(){
     hideShowImage(false)
     var good = score > 7
     if(good)
-      image.src = "goodJob.gif"
-    else
-      image.src = "badJob.gif"
+      image.src = "goodjob.gif"
+    else 
+      image.src = "badjob.gif"
   }
 
 	i++; 
