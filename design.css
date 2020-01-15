@@ -1,6 +1,11 @@
 body{
 background-image: url('code.jpg'); background-size: cover;
+
+color: red;
+
 }
+
+
 
 div{
   color: red;
@@ -14,3 +19,4 @@ TEXTAREA, input{
   color: yellow;
   border-color: aqua;
   border-width:5px;
+}
